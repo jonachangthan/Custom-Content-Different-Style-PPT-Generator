@@ -80,7 +80,8 @@ streamlit run app.py
 
 ### 操作介面
 
-*(建議在此處放一張 Streamlit 操作畫面的截圖)*
+<img width="1068" height="745" alt="image" src="https://github.com/user-attachments/assets/a444ecc0-e7c9-44b6-b160-ac12a22cfc5b" />
+
 
 ### 輸出範例
 
