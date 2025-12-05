@@ -95,3 +95,6 @@ streamlit run app.py
   * **Prompt Engineering**: 為了讓 Python 能精準解析 AI 的產出，使用了 `response_format={"type": "json_object"}` 模式，並在 Prompt 中定義了明確的 JSON Schema。
   * **模型選擇**: 原始嘗試使用 Llama 3，後因 Groq 更新，遷移至效能更強的 `llama-3.3-70b-versatile`。
 
+
+## Streamlit Web
+https://custom-content-different-style-ppt-generator-rytofuvcrby8uzvyb.streamlit.app/
