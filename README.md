@@ -86,8 +86,10 @@ streamlit run app.py
 
 | Style A: Professional | Style B: Creative |
 |:---:|:---:|
-| *(在此放 Style A 的截圖)* | *(在此放 Style B 的截圖)* |
-| 白底、藍色系、方正色塊 | 深底、高對比、圓形裝飾 |
+| <img width="1705" height="840" alt="image" src="https://github.com/user-attachments/assets/fe7e8b4d-8a91-4d54-9356-b69db144b191" />
+ |<img width="1820" height="851" alt="image" src="https://github.com/user-attachments/assets/634a8234-3270-452f-aece-90d1bf1cdb66" />
+ |
+| 白底、紅色系、方正色塊 | 深底、高對比、圓形裝飾 |
 
 ## 💡 開發筆記 (Development Notes)
 
